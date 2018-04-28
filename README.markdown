@@ -11,7 +11,7 @@
 希望对你的python学习会有帮助^^
 
 
-##A guide to Python's magic methods.##
+## A guide to Python's magic methods
 
 Written by Rafe Kettler in the year 2011.
 
